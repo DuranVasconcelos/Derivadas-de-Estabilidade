@@ -2,6 +2,6 @@
 
 Todos os arquivos .MAT são necesssários para a execução do programa.
 
-O arquivo "COD_Principal" é o código guia.
+O arquivo "COD" deve ser executado para obtenção de resultados.
 
-Obrigado!!
+Obrigado!
